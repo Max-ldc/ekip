@@ -1,3 +1,6 @@
 # ekip
 
-[Paul](paulklein.md)
+## [Paul](paulklein.md)
+
+
+## [Maxence](maxenceleduc.md)
